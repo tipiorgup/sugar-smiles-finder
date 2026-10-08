@@ -1,0 +1,5 @@
+streamlit==1.65.0
+requests==2.34.2
+rdkit==2026.03.6
+py3Dmol==2.5.5
+numpy==2.5.1
